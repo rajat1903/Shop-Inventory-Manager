@@ -6,7 +6,7 @@ Shop inventory can be easily managed using this project.
 ![{38AB5885-36F6-4963-A998-EB0DB5B6347F}](https://github.com/user-attachments/assets/a4f1ac3d-fb65-4991-a9b3-1302a0210c94)
 <br><br><br>
 
-![{DD504167-AA9E-4E6D-AD06-FF83A9D9392F}](https://github.com/user-attachments/assets/71881560-973c-4985-bcb8-97589bf9f6c6)
+<img width="1687" height="914" alt="image" src="https://github.com/user-attachments/assets/87c714b8-cab4-49e2-b196-9af06b494aa4" />
 <br><br><br>
 
 ![{AD79B770-4132-4B70-BC84-0E715D2DFDF3}](https://github.com/user-attachments/assets/47b9fa65-cde2-4469-8767-f01aae857cc3)
